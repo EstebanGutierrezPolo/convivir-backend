@@ -1,0 +1,22 @@
+# Compilación
+target/
+
+# Variables de entorno y secretos
+.env
+.env.local
+
+# Logs
+*.log
+
+# Editores
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
